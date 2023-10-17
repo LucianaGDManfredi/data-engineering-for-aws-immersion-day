@@ -1,6 +1,9 @@
-Amazon Web Services
-Data Engineering Immersion Day
-====================================================
+<div align="center">
+<h1>Amazon Web Services <br> Data Engineering Immersion Day</h1>
+<img src="https://images.credly.com/images/f9a98c81-94e5-41cf-b0b3-124814ce0f69/image.png" alt="Logo AWS" width="220">
+</div>
+
+==========================================================================================
 
 Welcome to the lab Instruction!
 
